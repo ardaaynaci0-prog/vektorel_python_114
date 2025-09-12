@@ -1,0 +1,12 @@
+print("\033[1;32;40m")
+
+print("╔═════════════════════╗")
+print("║  VEKTOREL APP       ║")
+print("║                     ║")
+print("║  1-Yılan            ║")
+print("║  2-Tetris           ║")
+print("║  3-                 ║")
+print("║  4-                 ║")
+print("║                     ║")
+print("║    Seçimiz nedir?   ║")
+print("╚═════════════════════╝")
